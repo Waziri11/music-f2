@@ -1,0 +1,2831 @@
+{
+  "A minor scale": {
+    "word": "A minor scale",
+    "definition": "a minor scale that starts on A. It can be played as natural minor or harmonic minor.",
+    "variations": [
+      "A minor scale",
+      "A minor scales"
+    ],
+    "emoji": "🎹🎶",
+    "id": "gl001"
+  },
+  "accidental": {
+    "word": "accidental",
+    "definition": "a sign such as a sharp, flat, or natural that changes a note",
+    "variations": [
+      "accidental",
+      "accidentals"
+    ],
+    "emoji": "♯♭🎼",
+    "id": "gl002"
+  },
+  "accompaniment": {
+    "word": "accompaniment",
+    "definition": "music played or sung to support the main singer or melody",
+    "variations": [
+      "accompaniment",
+      "accompaniments"
+    ],
+    "emoji": "🎹🥁",
+    "id": "gl003"
+  },
+  "accordion": {
+    "word": "accordion",
+    "definition": "a musical instrument that makes sound when air moves through it as it is opened and closed",
+    "variations": [
+      "accordion",
+      "accordions"
+    ],
+    "emoji": "🪗🎶",
+    "id": "gl004"
+  },
+  "acoustic": {
+    "word": "acoustic",
+    "definition": "relating to natural sound, not sound made electronically",
+    "variations": [
+      "acoustic",
+      "acoustics"
+    ],
+    "emoji": "🎸🎶",
+    "id": "gl005"
+  },
+  "acoustic treatment": {
+    "word": "acoustic treatment",
+    "definition": "materials and methods used in a room to reduce echo and unwanted noise",
+    "variations": [
+      "acoustic treatment",
+      "acoustic treatments"
+    ],
+    "emoji": "🔇🎙️",
+    "id": "gl006"
+  },
+  "aerophone": {
+    "word": "aerophone",
+    "definition": "a musical instrument that makes sound by vibrating air",
+    "variations": [
+      "aerophone",
+      "aerophones"
+    ],
+    "emoji": "💨🎺",
+    "id": "gl007"
+  },
+  "alla breve": {
+    "word": "alla breve",
+    "definition": "a symbol or marking for two-two time, also called cut time",
+    "variations": [
+      "alla breve"
+    ],
+    "emoji": "✂️🎼",
+    "id": "gl008"
+  },
+  "alto": {
+    "word": "alto",
+    "definition": "a lower female or higher mixed choir voice part",
+    "variations": [
+      "alto",
+      "altos"
+    ],
+    "emoji": "🎤🎶",
+    "id": "gl009"
+  },
+  "amplify": {
+    "word": "amplify",
+    "definition": "to make a sound louder",
+    "variations": [
+      "amplify",
+      "amplifies",
+      "amplified",
+      "amplifying",
+      "amplification"
+    ],
+    "emoji": "🔊📢",
+    "id": "gl010"
+  },
+  "amplitude": {
+    "word": "amplitude",
+    "definition": "the size or strength of a vibration, which affects how loud a sound is",
+    "variations": [
+      "amplitude",
+      "amplitudes"
+    ],
+    "emoji": "📈🔊",
+    "id": "gl011"
+  },
+  "arranging": {
+    "word": "arranging",
+    "definition": "the act of planning how a song will be performed, including instruments and song sections",
+    "variations": [
+      "arrange",
+      "arranges",
+      "arranged",
+      "arranging",
+      "arrangement",
+      "arrangements"
+    ],
+    "emoji": "🎻🎹🧩",
+    "id": "gl012"
+  },
+  "articulation": {
+    "word": "articulation",
+    "definition": "the way a note is started, played, or sung in music",
+    "variations": [
+      "articulation",
+      "articulations"
+    ],
+    "emoji": "🎵🗣️",
+    "id": "gl013"
+  },
+  "ascending": {
+    "word": "ascending",
+    "definition": "Going from lower notes to higher notes.",
+    "variations": [
+      "ascending"
+    ],
+    "emoji": "⬆️🎶",
+    "id": "gl014"
+  },
+  "ascending order": {
+    "word": "ascending order",
+    "definition": "moving from lower notes to higher notes.",
+    "variations": [
+      "ascending order"
+    ],
+    "emoji": "⬆️🎵",
+    "id": "gl015"
+  },
+  "audio interface": {
+    "word": "audio interface",
+    "definition": "a device that sends sound into and out of a computer during recording and music production",
+    "variations": [
+      "audio interface",
+      "audio interfaces"
+    ],
+    "emoji": "🎛️💻🔊",
+    "id": "gl016"
+  },
+  "audio mixer": {
+    "word": "audio mixer",
+    "definition": "an electronic device that combines and controls sounds from different microphones or instruments",
+    "variations": [
+      "audio mixer",
+      "audio mixers",
+      "mixer",
+      "mixers"
+    ],
+    "emoji": "🎚️🎛️🔊",
+    "id": "gl017"
+  },
+  "audio technician": {
+    "word": "audio technician",
+    "definition": "a person who operates sound equipment and helps make recorded sound clear and balanced",
+    "variations": [
+      "audio technician",
+      "audio technicians"
+    ],
+    "emoji": "🎛️🔊🛠️",
+    "id": "gl018"
+  },
+  "bar": {
+    "word": "bar",
+    "definition": "a unit of music that contains a fixed number of beats",
+    "variations": [
+      "bar",
+      "bars"
+    ],
+    "emoji": "🎵📦",
+    "id": "gl019"
+  },
+  "bar line": {
+    "word": "bar line",
+    "definition": "a vertical line that separates one bar from the next in written music",
+    "variations": [
+      "bar line",
+      "bar lines"
+    ],
+    "emoji": "📏🎼",
+    "id": "gl020"
+  },
+  "bass": {
+    "word": "bass",
+    "definition": "the lowest common male singing voice or low musical part",
+    "variations": [
+      "bass",
+      "basses"
+    ],
+    "emoji": "🎤⬇️",
+    "id": "gl021"
+  },
+  "bass clef": {
+    "word": "bass clef",
+    "definition": "A music sign that shows lower notes on a staff.",
+    "variations": [
+      "bass clef",
+      "bass clefs"
+    ],
+    "emoji": "🎼⬇️",
+    "id": "gl022"
+  },
+  "bass staff": {
+    "word": "bass staff",
+    "definition": "The bass staff is the staff used for writing lower-pitched notes.",
+    "variations": [
+      "bass staff",
+      "bass staves"
+    ],
+    "emoji": "🎼⬇️",
+    "id": "gl023"
+  },
+  "beam": {
+    "word": "beam",
+    "definition": "a line that joins short notes together to show their grouping",
+    "variations": [
+      "beam",
+      "beams",
+      "beaming"
+    ],
+    "emoji": "🔗🎵",
+    "id": "gl024"
+  },
+  "beat": {
+    "word": "beat",
+    "definition": "the regular pulse of music that you can count or clap",
+    "variations": [
+      "beat",
+      "beats"
+    ],
+    "emoji": "👏🥁",
+    "id": "gl025"
+  },
+  "beats per minute": {
+    "word": "beats per minute",
+    "definition": "a way of measuring tempo by counting how many beats happen in one minute",
+    "variations": [
+      "beat per minute",
+      "beats per minute",
+      "BPM"
+    ],
+    "emoji": "⏱️🔢",
+    "id": "gl026"
+  },
+  "bellows": {
+    "word": "bellows",
+    "definition": "the folding part of an accordion that pushes air through the instrument",
+    "variations": [
+      "bellows"
+    ],
+    "emoji": "🪗💨",
+    "id": "gl027"
+  },
+  "bow": {
+    "word": "bow",
+    "definition": "a tool with stretched hair used to play string instruments",
+    "variations": [
+      "bow",
+      "bows",
+      "bowing"
+    ],
+    "emoji": "🎻↔️",
+    "id": "gl028"
+  },
+  "brace": {
+    "word": "brace",
+    "definition": "a curved sign that joins the treble and bass staffs of a grand staff",
+    "variations": [
+      "brace",
+      "braces"
+    ],
+    "emoji": "🪢🎼",
+    "id": "gl029"
+  },
+  "bracket": {
+    "word": "bracket",
+    "definition": "a straight or angled sign used to connect staffs, often in vocal music",
+    "variations": [
+      "bracket",
+      "brackets"
+    ],
+    "emoji": "🔗🎼",
+    "id": "gl030"
+  },
+  "brass": {
+    "word": "brass",
+    "definition": "a group of wind instruments usually made of metal and played by buzzing the lips",
+    "variations": [
+      "brass"
+    ],
+    "emoji": "🎺✨",
+    "id": "gl031"
+  },
+  "breath control": {
+    "word": "breath control",
+    "definition": "the ability to manage your breathing well while singing",
+    "variations": [
+      "breath control"
+    ],
+    "emoji": "🫁🎤",
+    "id": "gl032"
+  },
+  "breathing technique": {
+    "word": "breathing technique",
+    "definition": "a good way of controlling breath for better singing or playing",
+    "variations": [
+      "breathing technique",
+      "breathing techniques"
+    ],
+    "emoji": "🌬️🎶",
+    "id": "gl033"
+  },
+  "bridge": {
+    "word": "bridge",
+    "definition": "a section of a song that brings a new idea or sound before returning to another part",
+    "variations": [
+      "bridge",
+      "bridges"
+    ],
+    "emoji": "🌉🎵",
+    "id": "gl034"
+  },
+  "cable": {
+    "word": "cable",
+    "definition": "an insulated wire used to carry electric or audio signals between equipment",
+    "variations": [
+      "cable",
+      "cables"
+    ],
+    "emoji": "🔌🎵",
+    "id": "gl035"
+  },
+  "Calando": {
+    "word": "Calando",
+    "definition": "a musical term meaning to gradually become slower and softer",
+    "variations": [
+      "Calando"
+    ],
+    "emoji": "🔉🐢🎵",
+    "id": "gl036"
+  },
+  "categorise": {
+    "word": "categorise",
+    "definition": "to put things into groups based on shared features",
+    "variations": [
+      "categorise",
+      "categorises",
+      "categorised",
+      "categorising",
+      "categorize",
+      "categorizes",
+      "categorized",
+      "categorizing"
+    ],
+    "emoji": "📂🧩",
+    "id": "gl037"
+  },
+  "centre of a measure": {
+    "word": "centre of a measure",
+    "definition": "the middle point of a bar, often important when grouping notes clearly",
+    "variations": [
+      "centre of a measure",
+      "center of a measure",
+      "centre of the measure",
+      "center of the measure"
+    ],
+    "emoji": "📍🎶",
+    "id": "gl038"
+  },
+  "choir": {
+    "word": "choir",
+    "definition": "a group of people who sing together",
+    "variations": [
+      "choir",
+      "choirs"
+    ],
+    "emoji": "🎶👥",
+    "id": "gl039"
+  },
+  "chordophone": {
+    "word": "chordophone",
+    "definition": "a musical instrument that makes sound from vibrating strings",
+    "variations": [
+      "chordophone",
+      "chordophones"
+    ],
+    "emoji": "🎻🎸",
+    "id": "gl040"
+  },
+  "chorus": {
+    "word": "chorus",
+    "definition": "the part of a song that repeats and often carries the main message",
+    "variations": [
+      "chorus",
+      "choruses"
+    ],
+    "emoji": "🎶🔁",
+    "id": "gl041"
+  },
+  "circle of fifths": {
+    "word": "circle of fifths",
+    "definition": "A music diagram that shows keys and how many sharps or flats they have.",
+    "variations": [
+      "circle of fifths"
+    ],
+    "emoji": "⭕🎼",
+    "id": "gl042"
+  },
+  "clap": {
+    "word": "clap",
+    "definition": "to strike your hands together to mark the beat",
+    "variations": [
+      "clap",
+      "claps",
+      "clapping"
+    ],
+    "emoji": "👏🎶",
+    "id": "gl043"
+  },
+  "classification": {
+    "word": "classification",
+    "definition": "the act of putting things into groups based on their features",
+    "variations": [
+      "classification",
+      "classifications",
+      "classify",
+      "classified"
+    ],
+    "emoji": "🗂️📚",
+    "id": "gl044"
+  },
+  "clef": {
+    "word": "clef",
+    "definition": "a sign placed at the beginning of a staff to show the pitch of notes",
+    "variations": [
+      "clef",
+      "clefs"
+    ],
+    "emoji": "🎼🔑",
+    "id": "gl045"
+  },
+  "competency": {
+    "word": "competency",
+    "definition": "an ability or skill that a student develops through learning",
+    "variations": [
+      "competency",
+      "competencies"
+    ],
+    "emoji": "💡✅",
+    "id": "gl046"
+  },
+  "compose": {
+    "word": "compose",
+    "definition": "to create or write music",
+    "variations": [
+      "compose",
+      "composes",
+      "composed",
+      "composing"
+    ],
+    "emoji": "✍️🎵",
+    "id": "gl047"
+  },
+  "composer": {
+    "word": "composer",
+    "definition": "a person who creates music",
+    "variations": [
+      "composer",
+      "composers"
+    ],
+    "emoji": "🎼✍️",
+    "id": "gl048"
+  },
+  "composition": {
+    "word": "composition",
+    "definition": "a piece of music that has been created or written",
+    "variations": [
+      "composition",
+      "compositions"
+    ],
+    "emoji": "🎵✍️",
+    "id": "gl049"
+  },
+  "compound interval": {
+    "word": "compound interval",
+    "definition": "an interval that is larger than one octave",
+    "variations": [
+      "compound interval",
+      "compound intervals"
+    ],
+    "emoji": "🎼➕8️⃣",
+    "id": "gl050"
+  },
+  "computer": {
+    "word": "computer",
+    "definition": "an electronic device used to run music software for recording and editing sound",
+    "variations": [
+      "computer",
+      "computers"
+    ],
+    "emoji": "💻🎵",
+    "id": "gl051"
+  },
+  "conductor": {
+    "word": "conductor",
+    "definition": "a person who leads musicians or singers during a performance",
+    "variations": [
+      "conductor",
+      "conductors"
+    ],
+    "emoji": "🎼🪄",
+    "id": "gl052"
+  },
+  "contrary motion": {
+    "word": "contrary motion",
+    "definition": "when two hands or parts move in opposite directions, one going up while the other goes down.",
+    "variations": [
+      "contrary motion"
+    ],
+    "emoji": "↔️🎹",
+    "id": "gl053"
+  },
+  "contrary movement": {
+    "word": "contrary movement",
+    "definition": "when the hands move in opposite directions on the piano",
+    "variations": [
+      "contrary movement",
+      "contrary movements",
+      "contrary motion"
+    ],
+    "emoji": "↔️🤲🎹",
+    "id": "gl054"
+  },
+  "control room": {
+    "word": "control room",
+    "definition": "the room in a studio where the producer listens, records, and controls the sound",
+    "variations": [
+      "control room",
+      "control rooms"
+    ],
+    "emoji": "🎚️🎧",
+    "id": "gl055"
+  },
+  "coordination": {
+    "word": "coordination",
+    "definition": "the ability to work together smoothly and at the right time",
+    "variations": [
+      "coordination"
+    ],
+    "emoji": "🤝⏱️",
+    "id": "gl056"
+  },
+  "count": {
+    "word": "count",
+    "definition": "to say the beats in order so that the rhythm is kept correctly",
+    "variations": [
+      "count",
+      "counts",
+      "counting"
+    ],
+    "emoji": "🗣️1️⃣",
+    "id": "gl057"
+  },
+  "crotchet": {
+    "word": "crotchet",
+    "definition": "a note that usually gets one beat in many simple time signatures",
+    "variations": [
+      "crotchet",
+      "crotchets"
+    ],
+    "emoji": "🎶1️⃣",
+    "id": "gl058"
+  },
+  "D minor scale": {
+    "word": "D minor scale",
+    "definition": "a minor scale that starts on D.",
+    "variations": [
+      "D minor scale",
+      "D minor scales"
+    ],
+    "emoji": "🎹🎶",
+    "id": "gl059"
+  },
+  "Da Capo": {
+    "word": "Da Capo",
+    "definition": "a sign telling the performer to go back and repeat from the beginning",
+    "variations": [
+      "Da Capo",
+      "D.C."
+    ],
+    "emoji": "🔙🎵",
+    "id": "gl060"
+  },
+  "Dal Segno": {
+    "word": "Dal Segno",
+    "definition": "a sign telling the performer to go back and repeat from a marked sign",
+    "variations": [
+      "Dal Segno",
+      "D.S."
+    ],
+    "emoji": "🔁🎼",
+    "id": "gl061"
+  },
+  "degree": {
+    "word": "degree",
+    "definition": "A degree is the position of a note in a scale, such as first, second, or sixth.",
+    "variations": [
+      "degree",
+      "degrees"
+    ],
+    "emoji": "🔢🎵",
+    "id": "gl062"
+  },
+  "descending": {
+    "word": "descending",
+    "definition": "Going from higher notes to lower notes.",
+    "variations": [
+      "descending"
+    ],
+    "emoji": "⬇️🎶",
+    "id": "gl063"
+  },
+  "descending order": {
+    "word": "descending order",
+    "definition": "moving from higher notes to lower notes.",
+    "variations": [
+      "descending order"
+    ],
+    "emoji": "⬇️🎵",
+    "id": "gl064"
+  },
+  "diction": {
+    "word": "diction",
+    "definition": "the clear way words are pronounced when speaking or singing",
+    "variations": [
+      "diction"
+    ],
+    "emoji": "🗣️🎶",
+    "id": "gl065"
+  },
+  "draft": {
+    "word": "draft",
+    "definition": "an early version of a piece of work that can be changed later",
+    "variations": [
+      "draft",
+      "drafts"
+    ],
+    "emoji": "📝📄",
+    "id": "gl066"
+  },
+  "duration": {
+    "word": "duration",
+    "definition": "how long or short a sound lasts",
+    "variations": [
+      "duration",
+      "durations"
+    ],
+    "emoji": "⏱️🎶",
+    "id": "gl067"
+  },
+  "dynamics": {
+    "word": "dynamics",
+    "definition": "the loudness or softness of music",
+    "variations": [
+      "dynamic",
+      "dynamics"
+    ],
+    "emoji": "🔊🔉",
+    "id": "gl068"
+  },
+  "E minor scale": {
+    "word": "E minor scale",
+    "definition": "a minor scale that starts on E. It is related to G major and uses one sharp in its key signature.",
+    "variations": [
+      "E minor scale",
+      "E minor scales"
+    ],
+    "emoji": "🎹🎼",
+    "id": "gl069"
+  },
+  "eardrum": {
+    "word": "eardrum",
+    "definition": "the thin part inside the ear that vibrates when sound enters",
+    "variations": [
+      "eardrum",
+      "eardrums"
+    ],
+    "emoji": "👂🔊",
+    "id": "gl070"
+  },
+  "echo": {
+    "word": "echo",
+    "definition": "a sound that bounces back and is heard again",
+    "variations": [
+      "echo",
+      "echoes"
+    ],
+    "emoji": "🔁🔊",
+    "id": "gl071"
+  },
+  "editing": {
+    "word": "editing",
+    "definition": "the process of changing recorded sound by cutting, adding, or adjusting parts",
+    "variations": [
+      "editing",
+      "edit",
+      "edits",
+      "edited"
+    ],
+    "emoji": "✂️🎵💻",
+    "id": "gl072"
+  },
+  "electronically": {
+    "word": "electronically",
+    "definition": "in a way that uses electricity or electronic equipment",
+    "variations": [
+      "electronic",
+      "electronically",
+      "electronics"
+    ],
+    "emoji": "⚡🔌",
+    "id": "gl073"
+  },
+  "electrophone": {
+    "word": "electrophone",
+    "definition": "a musical instrument that produces sound electronically",
+    "variations": [
+      "electrophone",
+      "electrophones"
+    ],
+    "emoji": "🎹⚡🎶",
+    "id": "gl074"
+  },
+  "enharmonic": {
+    "word": "enharmonic",
+    "definition": "having two different note names for the same key or sound",
+    "variations": [
+      "enharmonic",
+      "enharmonic keys"
+    ],
+    "emoji": "🎼🎹",
+    "id": "gl075"
+  },
+  "ensemble": {
+    "word": "ensemble",
+    "definition": "a group of singers or players performing music together",
+    "variations": [
+      "ensemble",
+      "ensembles"
+    ],
+    "emoji": "🎤🎻🥁",
+    "id": "gl076"
+  },
+  "F major scale": {
+    "word": "F major scale",
+    "definition": "a major scale that starts on F.",
+    "variations": [
+      "F major scale",
+      "F major scales"
+    ],
+    "emoji": "🎹🎵",
+    "id": "gl077"
+  },
+  "fallboard": {
+    "word": "fallboard",
+    "definition": "the cover that folds over the piano keys to protect them when the piano is not being used",
+    "variations": [
+      "fallboard",
+      "fallboards"
+    ],
+    "emoji": "🎹🛡️",
+    "id": "gl078"
+  },
+  "fingering": {
+    "word": "fingering",
+    "definition": "the planned use of specific fingers to play notes on an instrument",
+    "variations": [
+      "fingering",
+      "fingerings"
+    ],
+    "emoji": "✋🎹🎵",
+    "id": "gl079"
+  },
+  "flag": {
+    "word": "flag",
+    "definition": "the small curved mark on a note stem that helps show its value",
+    "variations": [
+      "flag",
+      "flags"
+    ],
+    "emoji": "🚩🎼",
+    "id": "gl080"
+  },
+  "flat": {
+    "word": "flat",
+    "definition": "A sign that lowers a note by a small step called a semitone.",
+    "variations": [
+      "flat",
+      "flats"
+    ],
+    "emoji": "♭⬇️",
+    "id": "gl081"
+  },
+  "foam panel": {
+    "word": "foam panel",
+    "definition": "a soft panel put on walls to absorb sound and reduce echoes",
+    "variations": [
+      "foam panel",
+      "foam panels"
+    ],
+    "emoji": "🧱🔇",
+    "id": "gl082"
+  },
+  "frequency": {
+    "word": "frequency",
+    "definition": "the number of vibrations in a sound in a certain time; it affects pitch",
+    "variations": [
+      "frequency",
+      "frequencies"
+    ],
+    "emoji": "〰️📊",
+    "id": "gl083"
+  },
+  "fundamental tone": {
+    "word": "fundamental tone",
+    "definition": "the main note or main pitch we hear in a sound",
+    "variations": [
+      "fundamental tone",
+      "fundamental tones"
+    ],
+    "emoji": "🎵1️⃣",
+    "id": "gl084"
+  },
+  "G major scale": {
+    "word": "G major scale",
+    "definition": "a major scale that starts on G and has one sharp, F♯.",
+    "variations": [
+      "G major scale",
+      "G major scales"
+    ],
+    "emoji": "🎹🎼",
+    "id": "gl085"
+  },
+  "genre": {
+    "word": "genre",
+    "definition": "a type or style of music",
+    "variations": [
+      "genre",
+      "genres"
+    ],
+    "emoji": "🎼🏷️",
+    "id": "gl086"
+  },
+  "grand staff": {
+    "word": "grand staff",
+    "definition": "Two staffs joined together, usually one treble staff and one bass staff, used often for piano music.",
+    "variations": [
+      "grand staff",
+      "grand staffs"
+    ],
+    "emoji": "🎹🎼",
+    "id": "gl087"
+  },
+  "Grave": {
+    "word": "Grave",
+    "definition": "a musical term meaning very slow and serious",
+    "variations": [
+      "Grave"
+    ],
+    "emoji": "😔🐢🎵",
+    "id": "gl088"
+  },
+  "half step": {
+    "word": "half step",
+    "definition": "the distance from one note to the very next key on the keyboard",
+    "variations": [
+      "half step",
+      "half steps"
+    ],
+    "emoji": "🎹📏",
+    "id": "gl089"
+  },
+  "hammer": {
+    "word": "hammer",
+    "definition": "the part inside the piano that strikes the strings when a key is pressed",
+    "variations": [
+      "hammer",
+      "hammers"
+    ],
+    "emoji": "🎹🔨🎶",
+    "id": "gl090"
+  },
+  "harmonic": {
+    "word": "harmonic",
+    "definition": "a sound made along with the main note that helps give an instrument its special tone",
+    "variations": [
+      "harmonic",
+      "harmonics"
+    ],
+    "emoji": "🎶✨",
+    "id": "gl091"
+  },
+  "harmonic interval": {
+    "word": "harmonic interval",
+    "definition": "an interval made when two notes are played or sung at the same time",
+    "variations": [
+      "harmonic interval",
+      "harmonic intervals"
+    ],
+    "emoji": "🎶⏱️",
+    "id": "gl092"
+  },
+  "harmonic minor scale": {
+    "word": "harmonic minor scale",
+    "definition": "A harmonic minor scale is a type of minor scale with a changed seventh note that gives it a special sound.",
+    "variations": [
+      "harmonic minor scale",
+      "harmonic minor scales"
+    ],
+    "emoji": "🎵✨",
+    "id": "gl093"
+  },
+  "harmonious": {
+    "word": "harmonious",
+    "definition": "sounding pleasant together in music",
+    "variations": [
+      "harmonious",
+      "harmony",
+      "harmonies"
+    ],
+    "emoji": "🎶🤝",
+    "id": "gl094"
+  },
+  "harmony": {
+    "word": "harmony",
+    "definition": "notes or voices that support the main melody and sound good together",
+    "variations": [
+      "harmony",
+      "harmonies"
+    ],
+    "emoji": "🎶🤝",
+    "id": "gl095"
+  },
+  "headphones": {
+    "word": "headphones",
+    "definition": "a pair of ear devices worn on the head for listening to sound clearly",
+    "variations": [
+      "headphone",
+      "headphones"
+    ],
+    "emoji": "🎧🎵",
+    "id": "gl096"
+  },
+  "Hornbostel-Sachs system": {
+    "word": "Hornbostel-Sachs system",
+    "definition": "a system for grouping musical instruments by how they produce sound",
+    "variations": [
+      "Hornbostel-Sachs system"
+    ],
+    "emoji": "🗂️🎶",
+    "id": "gl097"
+  },
+  "hybrid": {
+    "word": "hybrid",
+    "definition": "made from a combination of two different types",
+    "variations": [
+      "hybrid",
+      "hybrids"
+    ],
+    "emoji": "🔀🧩",
+    "id": "gl098"
+  },
+  "idiophone": {
+    "word": "idiophone",
+    "definition": "a musical instrument that makes sound when its whole body vibrates",
+    "variations": [
+      "idiophone",
+      "idiophones"
+    ],
+    "emoji": "🥁🔔🎶",
+    "id": "gl099"
+  },
+  "index finger": {
+    "word": "index finger",
+    "definition": "the finger next to the thumb, numbered 2 in piano fingering",
+    "variations": [
+      "index finger",
+      "index fingers"
+    ],
+    "emoji": "☝️✋",
+    "id": "gl100"
+  },
+  "inspiration": {
+    "word": "inspiration",
+    "definition": "an idea or feeling that helps someone create something",
+    "variations": [
+      "inspiration",
+      "inspirations"
+    ],
+    "emoji": "💡✨",
+    "id": "gl101"
+  },
+  "instrument": {
+    "word": "instrument",
+    "definition": "a tool used to make musical sounds",
+    "variations": [
+      "instrument",
+      "instruments"
+    ],
+    "emoji": "🎻🥁🎺",
+    "id": "gl102"
+  },
+  "instrumental track": {
+    "word": "instrumental track",
+    "definition": "a piece of music that has instruments only and no singing",
+    "variations": [
+      "instrumental track",
+      "instrumental tracks"
+    ],
+    "emoji": "🎼🎹",
+    "id": "gl103"
+  },
+  "instrumentalist": {
+    "word": "instrumentalist",
+    "definition": "a person who plays a musical instrument",
+    "variations": [
+      "instrumentalist",
+      "instrumentalists"
+    ],
+    "emoji": "🎸🎹🥁",
+    "id": "gl104"
+  },
+  "interval": {
+    "word": "interval",
+    "definition": "The distance between two notes.",
+    "variations": [
+      "interval",
+      "intervals"
+    ],
+    "emoji": "↔️🎶",
+    "id": "gl105"
+  },
+  "interval identification": {
+    "word": "interval identification",
+    "definition": "the process of naming or recognising the distance between two notes",
+    "variations": [
+      "interval identification"
+    ],
+    "emoji": "👂🎼",
+    "id": "gl106"
+  },
+  "introduction": {
+    "word": "introduction",
+    "definition": "the beginning part of a song or piece of music",
+    "variations": [
+      "introduction",
+      "introductions"
+    ],
+    "emoji": "🚪🎶",
+    "id": "gl107"
+  },
+  "key": {
+    "word": "key",
+    "definition": "the tonal center of a piece of music, based on a main note and scale",
+    "variations": [
+      "key",
+      "keys"
+    ],
+    "emoji": "🔑🎶",
+    "id": "gl108"
+  },
+  "key signature": {
+    "word": "key signature",
+    "definition": "The sharps or flats written at the beginning of a staff to show the key of the music.",
+    "variations": [
+      "key signature",
+      "key signatures"
+    ],
+    "emoji": "🎼♯♭",
+    "id": "gl109"
+  },
+  "keyboard": {
+    "word": "keyboard",
+    "definition": "the part of the piano with black and white keys that are pressed to make sounds",
+    "variations": [
+      "keyboard",
+      "keyboards"
+    ],
+    "emoji": "🎹⬛⬜",
+    "id": "gl110"
+  },
+  "keyboard MIDI controller": {
+    "word": "keyboard MIDI controller",
+    "definition": "a keyboard that sends musical information to a computer but usually does not make sound by itself",
+    "variations": [
+      "keyboard MIDI controller",
+      "keyboard MIDI controllers"
+    ],
+    "emoji": "⌨️🎹💻",
+    "id": "gl111"
+  },
+  "labelled": {
+    "word": "labelled",
+    "definition": "marked with a name, number, or symbol.",
+    "variations": [
+      "labelled",
+      "label"
+    ],
+    "emoji": "🏷️✍️",
+    "id": "gl112"
+  },
+  "Largo": {
+    "word": "Largo",
+    "definition": "a musical term meaning very slow and broad",
+    "variations": [
+      "Largo"
+    ],
+    "emoji": "🐢🎼",
+    "id": "gl113"
+  },
+  "ledger line": {
+    "word": "ledger line",
+    "definition": "A short line added above or below the staff to write notes that are too high or too low for the staff.",
+    "variations": [
+      "ledger line",
+      "ledger lines"
+    ],
+    "emoji": "📏🎵",
+    "id": "gl114"
+  },
+  "legato": {
+    "word": "legato",
+    "definition": "a smooth style of playing or singing notes so they connect closely",
+    "variations": [
+      "legato"
+    ],
+    "emoji": "🎶〰️",
+    "id": "gl115"
+  },
+  "lid": {
+    "word": "lid",
+    "definition": "the top cover of a piano that can be opened or closed",
+    "variations": [
+      "lid",
+      "lids",
+      "piano lid",
+      "piano lids"
+    ],
+    "emoji": "🎹🔓🔒",
+    "id": "gl116"
+  },
+  "line": {
+    "word": "line",
+    "definition": "one of the horizontal marks on a staff where notes can be written",
+    "variations": [
+      "line",
+      "lines"
+    ],
+    "emoji": "➖🎼",
+    "id": "gl117"
+  },
+  "little finger": {
+    "word": "little finger",
+    "definition": "the smallest finger on the hand, numbered 5 in piano fingering",
+    "variations": [
+      "little finger",
+      "little fingers"
+    ],
+    "emoji": "🤏✋",
+    "id": "gl118"
+  },
+  "live room": {
+    "word": "live room",
+    "definition": "the room in a studio where singers or instrumentalists perform while being recorded",
+    "variations": [
+      "live room",
+      "live rooms"
+    ],
+    "emoji": "🎤🎸",
+    "id": "gl119"
+  },
+  "lyricist": {
+    "word": "lyricist",
+    "definition": "a person who writes the words of songs",
+    "variations": [
+      "lyricist",
+      "lyricists"
+    ],
+    "emoji": "✍️🎵",
+    "id": "gl120"
+  },
+  "lyrics": {
+    "word": "lyrics",
+    "definition": "the words of a song",
+    "variations": [
+      "lyric",
+      "lyrics"
+    ],
+    "emoji": "📝🎤",
+    "id": "gl121"
+  },
+  "major": {
+    "word": "major",
+    "definition": "a type of scale or key that often sounds bright or happy.",
+    "variations": [
+      "major"
+    ],
+    "emoji": "😊🎵",
+    "id": "gl122"
+  },
+  "major key": {
+    "word": "major key",
+    "definition": "A major key is a key based on a major scale, usually giving music a bright or cheerful sound.",
+    "variations": [
+      "major key",
+      "major keys"
+    ],
+    "emoji": "🎹☀️",
+    "id": "gl123"
+  },
+  "major scale": {
+    "word": "major scale",
+    "definition": "A common scale pattern in music made with tones and semitones.",
+    "variations": [
+      "major scale",
+      "major scales"
+    ],
+    "emoji": "🎼🎵",
+    "id": "gl124"
+  },
+  "master": {
+    "word": "master",
+    "definition": "to make the final sound of recorded music clear, balanced, and ready to share",
+    "variations": [
+      "master",
+      "masters",
+      "mastering",
+      "mastered"
+    ],
+    "emoji": "✨🎧",
+    "id": "gl125"
+  },
+  "mastering": {
+    "word": "mastering",
+    "definition": "the final stage of music production where the song is polished for the best overall sound quality",
+    "variations": [
+      "mastering",
+      "master",
+      "masters",
+      "mastered"
+    ],
+    "emoji": "✨🎵🔊",
+    "id": "gl126"
+  },
+  "measure": {
+    "word": "measure",
+    "definition": "a section of music that holds a set number of beats; it is also called a bar",
+    "variations": [
+      "measure",
+      "measures"
+    ],
+    "emoji": "📏🎼",
+    "id": "gl127"
+  },
+  "medium": {
+    "word": "medium",
+    "definition": "the material through which sound travels, such as air, water, or solid objects",
+    "variations": [
+      "medium",
+      "media"
+    ],
+    "emoji": "🌬️💧🪨",
+    "id": "gl128"
+  },
+  "melodic interval": {
+    "word": "melodic interval",
+    "definition": "an interval made when two notes are played or sung one after another",
+    "variations": [
+      "melodic interval",
+      "melodic intervals"
+    ],
+    "emoji": "🎵➡️",
+    "id": "gl129"
+  },
+  "melodic minor scale": {
+    "word": "melodic minor scale",
+    "definition": "A melodic minor scale is a type of minor scale that changes some notes to create a smoother melody.",
+    "variations": [
+      "melodic minor scale",
+      "melodic minor scales"
+    ],
+    "emoji": "🎶🪄",
+    "id": "gl130"
+  },
+  "melody": {
+    "word": "melody",
+    "definition": "a series of notes played or sung in a musical line",
+    "variations": [
+      "melody",
+      "melodies"
+    ],
+    "emoji": "🎼🎤",
+    "id": "gl131"
+  },
+  "membrane": {
+    "word": "membrane",
+    "definition": "a thin stretched layer that vibrates to make sound on a drum",
+    "variations": [
+      "membrane",
+      "membranes"
+    ],
+    "emoji": "🥁〰️",
+    "id": "gl132"
+  },
+  "membranophone": {
+    "word": "membranophone",
+    "definition": "a musical instrument that makes sound when a stretched skin or covering vibrates",
+    "variations": [
+      "membranophone",
+      "membranophones"
+    ],
+    "emoji": "🥁🎵",
+    "id": "gl133"
+  },
+  "meter": {
+    "word": "meter",
+    "definition": "the pattern of strong and weak beats in music",
+    "variations": [
+      "meter",
+      "meters"
+    ],
+    "emoji": "🎼📏",
+    "id": "gl134"
+  },
+  "metronome": {
+    "word": "metronome",
+    "definition": "a device that helps musicians keep a steady beat or tempo",
+    "variations": [
+      "metronome",
+      "metronomes"
+    ],
+    "emoji": "⏱️🎵",
+    "id": "gl135"
+  },
+  "microphone": {
+    "word": "microphone",
+    "definition": "a device that captures sound for recording or speaking",
+    "variations": [
+      "microphone",
+      "microphones"
+    ],
+    "emoji": "🎤",
+    "id": "gl136"
+  },
+  "microphone stand": {
+    "word": "microphone stand",
+    "definition": "a support that holds a microphone in position so a person does not need to hold it",
+    "variations": [
+      "microphone stand",
+      "microphone stands",
+      "mic stand",
+      "mic stands"
+    ],
+    "emoji": "🎤🧍",
+    "id": "gl137"
+  },
+  "middle C": {
+    "word": "middle C",
+    "definition": "The C note near the middle of the piano keyboard, between bass and treble clefs.",
+    "variations": [
+      "middle C"
+    ],
+    "emoji": "🎹🎵",
+    "id": "gl138"
+  },
+  "MIDI": {
+    "word": "MIDI",
+    "definition": "a digital system that lets musical instruments and computers send musical information to each other",
+    "variations": [
+      "MIDI"
+    ],
+    "emoji": "⌨️💻🎶",
+    "id": "gl139"
+  },
+  "MIDI controller": {
+    "word": "MIDI controller",
+    "definition": "an electronic device used to control or play digital musical sounds on a computer or software",
+    "variations": [
+      "MIDI controller",
+      "MIDI controllers"
+    ],
+    "emoji": "🎹💻",
+    "id": "gl140"
+  },
+  "minim": {
+    "word": "minim",
+    "definition": "a note worth two crotchet beats in many time signatures",
+    "variations": [
+      "minim",
+      "minims"
+    ],
+    "emoji": "🎵2️⃣",
+    "id": "gl141"
+  },
+  "minor": {
+    "word": "minor",
+    "definition": "a type of scale or key that often sounds sadder or more serious than major.",
+    "variations": [
+      "minor"
+    ],
+    "emoji": "🎶🎭",
+    "id": "gl142"
+  },
+  "minor key": {
+    "word": "minor key",
+    "definition": "A minor key is a key based on a minor scale, usually giving music a sadder or darker sound.",
+    "variations": [
+      "minor key",
+      "minor keys"
+    ],
+    "emoji": "🎹🌙",
+    "id": "gl143"
+  },
+  "minor scale": {
+    "word": "minor scale",
+    "definition": "A minor scale is a group of eight notes arranged in a pattern that often sounds sadder or more serious than a major scale.",
+    "variations": [
+      "minor scale",
+      "minor scales"
+    ],
+    "emoji": "🎼🌙",
+    "id": "gl144"
+  },
+  "mix": {
+    "word": "mix",
+    "definition": "to combine and adjust recorded sounds so they work well together",
+    "variations": [
+      "mix",
+      "mixes",
+      "mixing",
+      "mixed"
+    ],
+    "emoji": "🎚️🎶",
+    "id": "gl145"
+  },
+  "mixing": {
+    "word": "mixing",
+    "definition": "the stage of music production where different recorded sounds are balanced and combined",
+    "variations": [
+      "mixing",
+      "mix",
+      "mixes",
+      "mixed"
+    ],
+    "emoji": "🎚️🎶🎛️",
+    "id": "gl146"
+  },
+  "mouthpiece": {
+    "word": "mouthpiece",
+    "definition": "the part of a wind instrument where the player blows",
+    "variations": [
+      "mouthpiece",
+      "mouthpieces"
+    ],
+    "emoji": "👄🎺",
+    "id": "gl147"
+  },
+  "music producer": {
+    "word": "music producer",
+    "definition": "a person who guides and manages the making, recording, mixing, and finishing of songs",
+    "variations": [
+      "music producer",
+      "music producers",
+      "producer",
+      "producers"
+    ],
+    "emoji": "🎶🎛️👤",
+    "id": "gl148"
+  },
+  "music production": {
+    "word": "music production",
+    "definition": "the process of creating, recording, and improving music using tools and technology",
+    "variations": [
+      "music production"
+    ],
+    "emoji": "🎛️🎶💻",
+    "id": "gl149"
+  },
+  "music rack": {
+    "word": "music rack",
+    "definition": "the part of the piano that holds sheet music or a book while someone plays",
+    "variations": [
+      "music rack",
+      "music racks"
+    ],
+    "emoji": "🎼📖🎹",
+    "id": "gl150"
+  },
+  "musical piece": {
+    "word": "musical piece",
+    "definition": "a composition or song written to be played or sung.",
+    "variations": [
+      "musical piece",
+      "musical pieces"
+    ],
+    "emoji": "🎶📄",
+    "id": "gl151"
+  },
+  "musical signs": {
+    "word": "musical signs",
+    "definition": "symbols in written music that tell how the music should be played.",
+    "variations": [
+      "musical sign",
+      "musical signs"
+    ],
+    "emoji": "🎼🔣",
+    "id": "gl152"
+  },
+  "natural minor scale": {
+    "word": "natural minor scale",
+    "definition": "A natural minor scale is a type of minor scale built with its own fixed pattern of tones and semitones.",
+    "variations": [
+      "natural minor scale",
+      "natural minor scales"
+    ],
+    "emoji": "🎼🌙",
+    "id": "gl153"
+  },
+  "note": {
+    "word": "note",
+    "definition": "a music sign that shows a sound and how long it lasts",
+    "variations": [
+      "note",
+      "notes"
+    ],
+    "emoji": "🎵🎼",
+    "id": "gl154"
+  },
+  "note grouping": {
+    "word": "note grouping",
+    "definition": "the way notes and rests are arranged into clear beat groups according to the time signature",
+    "variations": [
+      "note grouping",
+      "grouping",
+      "note groupings"
+    ],
+    "emoji": "📚🎼",
+    "id": "gl155"
+  },
+  "octave": {
+    "word": "octave",
+    "definition": "the distance between one musical note and another note that is higher or lower but sounds similar",
+    "variations": [
+      "octave",
+      "octaves"
+    ],
+    "emoji": "🎼8️⃣",
+    "id": "gl156"
+  },
+  "organology": {
+    "word": "organology",
+    "definition": "the study of musical instruments",
+    "variations": [
+      "organology"
+    ],
+    "emoji": "🎼📚",
+    "id": "gl157"
+  },
+  "overtone": {
+    "word": "overtone",
+    "definition": "an extra higher sound heard together with the main note",
+    "variations": [
+      "overtone",
+      "overtones"
+    ],
+    "emoji": "🎶⬆️",
+    "id": "gl158"
+  },
+  "parallel movement": {
+    "word": "parallel movement",
+    "definition": "when both hands move in the same direction on the piano",
+    "variations": [
+      "parallel movement",
+      "parallel movements"
+    ],
+    "emoji": "🤲➡️🎹",
+    "id": "gl159"
+  },
+  "pedal": {
+    "word": "pedal",
+    "definition": "a foot control on the piano that changes how the sound is played",
+    "variations": [
+      "pedal",
+      "pedals"
+    ],
+    "emoji": "🦶🎹🎵",
+    "id": "gl160"
+  },
+  "percussion": {
+    "word": "percussion",
+    "definition": "musical instruments that make sound when hit, shaken, or scraped",
+    "variations": [
+      "percussion",
+      "percussions",
+      "percussionist",
+      "percussionists"
+    ],
+    "emoji": "🥁👏",
+    "id": "gl161"
+  },
+  "perfect fifth": {
+    "word": "perfect fifth",
+    "definition": "An interval from one note to another note five letter names away, like C to G.",
+    "variations": [
+      "perfect fifth",
+      "perfect fifths"
+    ],
+    "emoji": "5️⃣🎵",
+    "id": "gl162"
+  },
+  "perfect fourth": {
+    "word": "perfect fourth",
+    "definition": "An interval from one note to another note four letter names away, like C to F.",
+    "variations": [
+      "perfect fourth",
+      "perfect fourths"
+    ],
+    "emoji": "4️⃣🎵",
+    "id": "gl163"
+  },
+  "performance": {
+    "word": "performance",
+    "definition": "the act of playing or singing music for others",
+    "variations": [
+      "performance",
+      "performances",
+      "perform"
+    ],
+    "emoji": "🎤🎹👏",
+    "id": "gl164"
+  },
+  "performer": {
+    "word": "performer",
+    "definition": "a person who plays, sings, or presents music",
+    "variations": [
+      "performer",
+      "performers"
+    ],
+    "emoji": "🎤🎻",
+    "id": "gl165"
+  },
+  "piano": {
+    "word": "piano",
+    "definition": "a keyboard instrument that makes sound when keys are pressed",
+    "variations": [
+      "piano",
+      "pianos"
+    ],
+    "emoji": "🎹",
+    "id": "gl166"
+  },
+  "piano subito": {
+    "word": "piano subito",
+    "definition": "a direction meaning to become suddenly soft",
+    "variations": [
+      "piano subito",
+      "p sub"
+    ],
+    "emoji": "🤫🎵",
+    "id": "gl167"
+  },
+  "pitch": {
+    "word": "pitch",
+    "definition": "How high or low a note sounds.",
+    "variations": [
+      "pitch",
+      "pitches"
+    ],
+    "emoji": "🎵⬆️⬇️",
+    "id": "gl168"
+  },
+  "pluck": {
+    "word": "pluck",
+    "definition": "to pull and release a string to make a sound",
+    "variations": [
+      "pluck",
+      "plucks",
+      "plucked",
+      "plucking"
+    ],
+    "emoji": "🤏🎸",
+    "id": "gl169"
+  },
+  "pop filter": {
+    "word": "pop filter",
+    "definition": "a screen placed in front of a microphone to reduce harsh popping sounds when speaking or singing",
+    "variations": [
+      "pop filter",
+      "pop filters"
+    ],
+    "emoji": "🎤🛡️",
+    "id": "gl170"
+  },
+  "portfolio": {
+    "word": "portfolio",
+    "definition": "a collection of a student’s work and records kept for learning",
+    "variations": [
+      "portfolio",
+      "portfolios"
+    ],
+    "emoji": "📁📝",
+    "id": "gl171"
+  },
+  "posture": {
+    "word": "posture",
+    "definition": "the way a person holds and positions the body while sitting or playing",
+    "variations": [
+      "posture",
+      "postures"
+    ],
+    "emoji": "🧍🎹",
+    "id": "gl172"
+  },
+  "presto": {
+    "word": "presto",
+    "definition": "a tempo marking that means very fast",
+    "variations": [
+      "presto"
+    ],
+    "emoji": "⚡🏃🎶",
+    "id": "gl173"
+  },
+  "primary triad": {
+    "word": "primary triad",
+    "definition": "one of the three main triads in a key, built on the 1st, 4th, and 5th notes of the scale.",
+    "variations": [
+      "primary triad",
+      "primary triads"
+    ],
+    "emoji": "🎹🎼",
+    "id": "gl174"
+  },
+  "prime interval": {
+    "word": "prime interval",
+    "definition": "another name for a unison, where two notes are the same pitch",
+    "variations": [
+      "prime interval",
+      "prime intervals"
+    ],
+    "emoji": "1️⃣🎼",
+    "id": "gl175"
+  },
+  "producer": {
+    "word": "producer",
+    "definition": "a person who guides and manages the making of recorded music",
+    "variations": [
+      "producer",
+      "producers",
+      "music producer",
+      "music producers"
+    ],
+    "emoji": "🎛️🎧",
+    "id": "gl176"
+  },
+  "pronunciation": {
+    "word": "pronunciation",
+    "definition": "the way a word is spoken",
+    "variations": [
+      "pronunciation",
+      "pronunciations",
+      "pronounce",
+      "pronounced",
+      "pronouncing"
+    ],
+    "emoji": "🗨️📢",
+    "id": "gl177"
+  },
+  "property": {
+    "word": "property",
+    "definition": "a quality or feature of something",
+    "variations": [
+      "property",
+      "properties"
+    ],
+    "emoji": "🔍📘",
+    "id": "gl178"
+  },
+  "quantity": {
+    "word": "quantity",
+    "definition": "the number size of an interval, found by counting from one note to another",
+    "variations": [
+      "quantity",
+      "quantities"
+    ],
+    "emoji": "🔢🎵",
+    "id": "gl179"
+  },
+  "quaver": {
+    "word": "quaver",
+    "definition": "a note worth half of a crotchet beat",
+    "variations": [
+      "quaver",
+      "quavers"
+    ],
+    "emoji": "🎵➗",
+    "id": "gl180"
+  },
+  "Rallentando": {
+    "word": "Rallentando",
+    "definition": "a musical term meaning to gradually slow down",
+    "variations": [
+      "Rallentando"
+    ],
+    "emoji": "🐢🎼",
+    "id": "gl181"
+  },
+  "recording": {
+    "word": "recording",
+    "definition": "the process of capturing sound so it can be stored and played back later",
+    "variations": [
+      "recording",
+      "recordings",
+      "record"
+    ],
+    "emoji": "🎙️💾",
+    "id": "gl182"
+  },
+  "recording studio": {
+    "word": "recording studio",
+    "definition": "a special room or place where music and sound are recorded",
+    "variations": [
+      "recording studio",
+      "recording studios",
+      "music recording studio",
+      "music recording studios"
+    ],
+    "emoji": "🎙️🏠🎵",
+    "id": "gl183"
+  },
+  "reed": {
+    "word": "reed",
+    "definition": "a thin piece of material in some wind instruments that vibrates to make sound",
+    "variations": [
+      "reed",
+      "reeds"
+    ],
+    "emoji": "🎷〰️",
+    "id": "gl184"
+  },
+  "refine": {
+    "word": "refine",
+    "definition": "to improve something by making small changes",
+    "variations": [
+      "refine",
+      "refines",
+      "refined",
+      "refining"
+    ],
+    "emoji": "🔧✨",
+    "id": "gl185"
+  },
+  "register": {
+    "word": "register",
+    "definition": "The range of notes that a voice or instrument can sing or play.",
+    "variations": [
+      "register",
+      "registers"
+    ],
+    "emoji": "🎤🎻",
+    "id": "gl186"
+  },
+  "rehearsal": {
+    "word": "rehearsal",
+    "definition": "practice done before recording or performing so the music can be done well",
+    "variations": [
+      "rehearsal",
+      "rehearsals",
+      "rehearse",
+      "rehearsing"
+    ],
+    "emoji": "🎤🎶",
+    "id": "gl187"
+  },
+  "relative": {
+    "word": "relative",
+    "definition": "in music, describing a major and minor scale that share the same key signature.",
+    "variations": [
+      "relative",
+      "relatives"
+    ],
+    "emoji": "🔗🎼",
+    "id": "gl188"
+  },
+  "relative major": {
+    "word": "relative major",
+    "definition": "A relative major is a major key that shares the same key signature as a minor key.",
+    "variations": [
+      "relative major",
+      "relative majors"
+    ],
+    "emoji": "🔗🎼",
+    "id": "gl189"
+  },
+  "relative minor": {
+    "word": "relative minor",
+    "definition": "A relative minor is a minor key that shares the same key signature as a major key.",
+    "variations": [
+      "relative minor",
+      "relative minors"
+    ],
+    "emoji": "🔗🎶",
+    "id": "gl190"
+  },
+  "repetition": {
+    "word": "repetition",
+    "definition": "the act of doing or playing something again",
+    "variations": [
+      "repetition",
+      "repetitions",
+      "repeat",
+      "repeats",
+      "repeated",
+      "repeating"
+    ],
+    "emoji": "🔁🎵",
+    "id": "gl191"
+  },
+  "resonate": {
+    "word": "resonate",
+    "definition": "to produce or continue a strong, clear sound",
+    "variations": [
+      "resonate",
+      "resonates",
+      "resonated",
+      "resonating"
+    ],
+    "emoji": "🔊🎶",
+    "id": "gl192"
+  },
+  "resonator": {
+    "word": "resonator",
+    "definition": "a part of an instrument that helps make the sound louder and fuller",
+    "variations": [
+      "resonator",
+      "resonators"
+    ],
+    "emoji": "🔊🎵",
+    "id": "gl193"
+  },
+  "rest": {
+    "word": "rest",
+    "definition": "a musical sign that shows a period of silence",
+    "variations": [
+      "rest",
+      "rests"
+    ],
+    "emoji": "🤫🎼",
+    "id": "gl194"
+  },
+  "reverb": {
+    "word": "reverb",
+    "definition": "the effect of sound continuing for a short time in a space after it is made",
+    "variations": [
+      "reverb"
+    ],
+    "emoji": "🎵🏠",
+    "id": "gl195"
+  },
+  "rhythm": {
+    "word": "rhythm",
+    "definition": "the pattern of long and short sounds in music",
+    "variations": [
+      "rhythm",
+      "rhythms"
+    ],
+    "emoji": "🥁🎶",
+    "id": "gl196"
+  },
+  "ring finger": {
+    "word": "ring finger",
+    "definition": "the finger between the middle finger and the little finger, numbered 4 in piano fingering",
+    "variations": [
+      "ring finger",
+      "ring fingers"
+    ],
+    "emoji": "💍✋",
+    "id": "gl197"
+  },
+  "royalties": {
+    "word": "royalties",
+    "definition": "money paid to a writer, musician, or artist each time their work is sold or performed",
+    "variations": [
+      "royalty",
+      "royalties"
+    ],
+    "emoji": "💰🎵",
+    "id": "gl198"
+  },
+  "scale": {
+    "word": "scale",
+    "definition": "A group of notes arranged in order from low to high or high to low.",
+    "variations": [
+      "scale",
+      "scales"
+    ],
+    "emoji": "🎵📈",
+    "id": "gl199"
+  },
+  "scale degree": {
+    "word": "scale degree",
+    "definition": "The number showing the position of a note in a scale.",
+    "variations": [
+      "scale degree",
+      "scale degrees"
+    ],
+    "emoji": "🔢🎵",
+    "id": "gl200"
+  },
+  "scientific": {
+    "word": "scientific",
+    "definition": "related to science or careful study",
+    "variations": [
+      "scientific"
+    ],
+    "emoji": "🔬📘",
+    "id": "gl201"
+  },
+  "score": {
+    "word": "score",
+    "definition": "the written form of a piece of music.",
+    "variations": [
+      "score",
+      "scores"
+    ],
+    "emoji": "🎼📄",
+    "id": "gl202"
+  },
+  "secondary": {
+    "word": "secondary",
+    "definition": "in music, describing triads or chords that are not the main primary ones in a key.",
+    "variations": [
+      "secondary"
+    ],
+    "emoji": "🎶➕",
+    "id": "gl203"
+  },
+  "semibreve": {
+    "word": "semibreve",
+    "definition": "a note value that lasts for four beats in common time",
+    "variations": [
+      "semibreve",
+      "semibreves"
+    ],
+    "emoji": "🎵4️⃣",
+    "id": "gl204"
+  },
+  "semibreve rest": {
+    "word": "semibreve rest",
+    "definition": "a rest sign used to show silence for a whole bar in many cases",
+    "variations": [
+      "semibreve rest",
+      "semibreve rests"
+    ],
+    "emoji": "🤫🕐",
+    "id": "gl205"
+  },
+  "semiquaver": {
+    "word": "semiquaver",
+    "definition": "a note worth half of a quaver, or one quarter of a crotchet",
+    "variations": [
+      "semiquaver",
+      "semiquavers"
+    ],
+    "emoji": "🎼⚡",
+    "id": "gl206"
+  },
+  "semitone": {
+    "word": "semitone",
+    "definition": "The smallest common step between two notes in Western music; a half step.",
+    "variations": [
+      "semitone",
+      "semitones"
+    ],
+    "emoji": "½🎵",
+    "id": "gl207"
+  },
+  "sforzando": {
+    "word": "sforzando",
+    "definition": "a marking that tells the performer to play a note or sound with sudden force",
+    "variations": [
+      "sforzando",
+      "sfz"
+    ],
+    "emoji": "💥🎶",
+    "id": "gl208"
+  },
+  "sharp": {
+    "word": "sharp",
+    "definition": "A sign that raises a note by a small step called a semitone.",
+    "variations": [
+      "sharp",
+      "sharps"
+    ],
+    "emoji": "♯⬆️",
+    "id": "gl209"
+  },
+  "sheet music": {
+    "word": "sheet music",
+    "definition": "printed music that shows the notes to play or sing, usually on separate pages",
+    "variations": [
+      "sheet music"
+    ],
+    "emoji": "🎼📄",
+    "id": "gl210"
+  },
+  "sight-reading": {
+    "word": "sight-reading",
+    "definition": "reading and playing music for the first time without practising it beforehand.",
+    "variations": [
+      "sight-reading"
+    ],
+    "emoji": "👀🎼🎹",
+    "id": "gl211"
+  },
+  "signal": {
+    "word": "signal",
+    "definition": "an electrical or audio message sent from one device to another",
+    "variations": [
+      "signal",
+      "signals"
+    ],
+    "emoji": "📡🔊",
+    "id": "gl212"
+  },
+  "simple interval": {
+    "word": "simple interval",
+    "definition": "an interval that stays within one octave",
+    "variations": [
+      "simple interval",
+      "simple intervals"
+    ],
+    "emoji": "🎵8️⃣",
+    "id": "gl213"
+  },
+  "simple time": {
+    "word": "simple time",
+    "definition": "a type of time signature where each beat divides into two equal parts",
+    "variations": [
+      "simple time",
+      "simple times",
+      "simple time signature",
+      "simple time signatures"
+    ],
+    "emoji": "2️⃣🎶",
+    "id": "gl214"
+  },
+  "slur": {
+    "word": "slur",
+    "definition": "a curved line showing that notes should be played or sung smoothly together",
+    "variations": [
+      "slur",
+      "slurs",
+      "slurred"
+    ],
+    "emoji": "🎼➰",
+    "id": "gl215"
+  },
+  "soft pedal": {
+    "word": "soft pedal",
+    "definition": "the left pedal that makes the piano sound softer",
+    "variations": [
+      "soft pedal",
+      "soft pedals"
+    ],
+    "emoji": "🎹🔉🦶",
+    "id": "gl216"
+  },
+  "solemn": {
+    "word": "solemn",
+    "definition": "serious and not cheerful",
+    "variations": [
+      "solemn",
+      "solemnly",
+      "solemness",
+      "solemnness"
+    ],
+    "emoji": "😐🕯️",
+    "id": "gl217"
+  },
+  "solfa syllables": {
+    "word": "solfa syllables",
+    "definition": "note names used for singing, such as do, re, mi, fa, so, la, and ti",
+    "variations": [
+      "solfa syllable",
+      "solfa syllables"
+    ],
+    "emoji": "🎤🎶",
+    "id": "gl218"
+  },
+  "solfege": {
+    "word": "solfege",
+    "definition": "Solfege is a system for naming notes in a scale with syllables like do, re, mi, fa, so, la, and ti.",
+    "variations": [
+      "solfege"
+    ],
+    "emoji": "🎤🎶",
+    "id": "gl219"
+  },
+  "songwriter": {
+    "word": "songwriter",
+    "definition": "a person who writes songs for themselves or for other singers",
+    "variations": [
+      "songwriter",
+      "songwriters"
+    ],
+    "emoji": "✍️🎶",
+    "id": "gl220"
+  },
+  "songwriting": {
+    "word": "songwriting",
+    "definition": "the process of creating a song, including its words and music",
+    "variations": [
+      "songwriting"
+    ],
+    "emoji": "✍️🎵",
+    "id": "gl221"
+  },
+  "soprano": {
+    "word": "soprano",
+    "definition": "the highest common singing voice in a choir",
+    "variations": [
+      "soprano",
+      "sopranos"
+    ],
+    "emoji": "🎤⬆️",
+    "id": "gl222"
+  },
+  "sostenuto pedal": {
+    "word": "sostenuto pedal",
+    "definition": "the middle pedal that holds only the notes being played when the pedal is pressed",
+    "variations": [
+      "sostenuto pedal",
+      "sostenuto pedals"
+    ],
+    "emoji": "🎹🦶🎵",
+    "id": "gl223"
+  },
+  "sound card": {
+    "word": "sound card",
+    "definition": "another name for an audio interface; a device that helps a computer receive and play sound",
+    "variations": [
+      "sound card",
+      "sound cards"
+    ],
+    "emoji": "💻🎵",
+    "id": "gl224"
+  },
+  "sound designer": {
+    "word": "sound designer",
+    "definition": "a person who creates special sounds for media such as films, games, radio, or adverts",
+    "variations": [
+      "sound designer",
+      "sound designers"
+    ],
+    "emoji": "🎧🎬🎮",
+    "id": "gl225"
+  },
+  "sound effect": {
+    "word": "sound effect",
+    "definition": "a changed or added sound used to improve music or support a story",
+    "variations": [
+      "sound effect",
+      "sound effects"
+    ],
+    "emoji": "🔊✨",
+    "id": "gl226"
+  },
+  "sound engineer": {
+    "word": "sound engineer",
+    "definition": "a person who works with recording equipment to capture, edit, and improve sound",
+    "variations": [
+      "sound engineer",
+      "sound engineers"
+    ],
+    "emoji": "🔊🎚️👷",
+    "id": "gl227"
+  },
+  "source": {
+    "word": "source",
+    "definition": "the place or thing something comes from",
+    "variations": [
+      "source",
+      "sources"
+    ],
+    "emoji": "🌍🔊",
+    "id": "gl228"
+  },
+  "space": {
+    "word": "space",
+    "definition": "the gap between two lines on a staff where notes can be written",
+    "variations": [
+      "space",
+      "spaces"
+    ],
+    "emoji": "↔️🎼",
+    "id": "gl229"
+  },
+  "staff": {
+    "word": "staff",
+    "definition": "A set of five horizontal lines used to write music notes.",
+    "variations": [
+      "staff",
+      "staffs",
+      "staves"
+    ],
+    "emoji": "🎼",
+    "id": "gl230"
+  },
+  "staff notation": {
+    "word": "staff notation",
+    "definition": "the system of writing music on lines and spaces using musical signs",
+    "variations": [
+      "staff notation"
+    ],
+    "emoji": "✍️🎼",
+    "id": "gl231"
+  },
+  "stage presence": {
+    "word": "stage presence",
+    "definition": "the confidence and energy a performer shows in front of an audience",
+    "variations": [
+      "stage presence"
+    ],
+    "emoji": "🎭✨",
+    "id": "gl232"
+  },
+  "steady": {
+    "word": "steady",
+    "definition": "regular and even, without changing too much",
+    "variations": [
+      "steady",
+      "steadier",
+      "steadiest"
+    ],
+    "emoji": "➖🎶",
+    "id": "gl233"
+  },
+  "stool": {
+    "word": "stool",
+    "definition": "a seat used by the pianist while playing",
+    "variations": [
+      "stool",
+      "stools",
+      "piano stool",
+      "piano stools"
+    ],
+    "emoji": "🪑🎹",
+    "id": "gl234"
+  },
+  "string": {
+    "word": "string",
+    "definition": "a thin stretched metal wire inside the piano that vibrates to make sound",
+    "variations": [
+      "string",
+      "strings"
+    ],
+    "emoji": "🎹〰️🎵",
+    "id": "gl235"
+  },
+  "strum": {
+    "word": "strum",
+    "definition": "to brush across strings to make sound",
+    "variations": [
+      "strum",
+      "strums",
+      "strummed",
+      "strumming"
+    ],
+    "emoji": "🎸✋",
+    "id": "gl236"
+  },
+  "studio manager": {
+    "word": "studio manager",
+    "definition": "a person responsible for the daily running and organisation of a music studio",
+    "variations": [
+      "studio manager",
+      "studio managers"
+    ],
+    "emoji": "🏢📋",
+    "id": "gl237"
+  },
+  "studio microphone": {
+    "word": "studio microphone",
+    "definition": "a microphone made for clear sound recording in a studio",
+    "variations": [
+      "studio microphone",
+      "studio microphones"
+    ],
+    "emoji": "🎙️🎵",
+    "id": "gl238"
+  },
+  "studio monitor": {
+    "word": "studio monitor",
+    "definition": "a speaker used in a studio to hear recorded music clearly and accurately",
+    "variations": [
+      "studio monitor",
+      "studio monitors"
+    ],
+    "emoji": "🔊🎧",
+    "id": "gl239"
+  },
+  "subito": {
+    "word": "subito",
+    "definition": "a musical word meaning sudden or immediate",
+    "variations": [
+      "subito"
+    ],
+    "emoji": "⚡❗",
+    "id": "gl240"
+  },
+  "subito forte": {
+    "word": "subito forte",
+    "definition": "a musical instruction meaning suddenly loud",
+    "variations": [
+      "subito forte"
+    ],
+    "emoji": "🔊⚡🎶",
+    "id": "gl241"
+  },
+  "surface": {
+    "word": "surface",
+    "definition": "the outside part of something",
+    "variations": [
+      "surface",
+      "surfaces"
+    ],
+    "emoji": "⬜✋",
+    "id": "gl242"
+  },
+  "sustain pedal": {
+    "word": "sustain pedal",
+    "definition": "the right pedal that makes notes keep sounding after the fingers leave the keys",
+    "variations": [
+      "sustain pedal",
+      "sustain pedals"
+    ],
+    "emoji": "🎹🎶🦶",
+    "id": "gl243"
+  },
+  "syllable": {
+    "word": "syllable",
+    "definition": "a sound unit used to help speak or count rhythms, such as ta or te",
+    "variations": [
+      "syllable",
+      "syllables"
+    ],
+    "emoji": "🗣️🎵",
+    "id": "gl244"
+  },
+  "syllabus": {
+    "word": "syllabus",
+    "definition": "an outline that shows what topics and skills will be taught in a course",
+    "variations": [
+      "syllabus",
+      "syllabuses",
+      "syllabi"
+    ],
+    "emoji": "📘🗂️",
+    "id": "gl245"
+  },
+  "synthesizer": {
+    "word": "synthesizer",
+    "definition": "an electronic machine or keyboard that makes many different sounds",
+    "variations": [
+      "synthesizer",
+      "synthesizers"
+    ],
+    "emoji": "🎹🔊⚡",
+    "id": "gl246"
+  },
+  "tempo": {
+    "word": "tempo",
+    "definition": "the speed of the music",
+    "variations": [
+      "tempo",
+      "tempos"
+    ],
+    "emoji": "⏱️🎵",
+    "id": "gl247"
+  },
+  "tempo mark": {
+    "word": "tempo mark",
+    "definition": "a written sign or number that shows how fast the music should be played",
+    "variations": [
+      "tempo mark",
+      "tempo marks"
+    ],
+    "emoji": "⏱️✍️",
+    "id": "gl248"
+  },
+  "tenor": {
+    "word": "tenor",
+    "definition": "a higher male singing voice",
+    "variations": [
+      "tenor",
+      "tenors"
+    ],
+    "emoji": "🎤🎵",
+    "id": "gl249"
+  },
+  "tenuto": {
+    "word": "tenuto",
+    "definition": "a marking that tells the performer to hold a note for its full value, often with slight emphasis",
+    "variations": [
+      "tenuto"
+    ],
+    "emoji": "🎵➖",
+    "id": "gl250"
+  },
+  "theory": {
+    "word": "theory",
+    "definition": "a set of ideas used to explain how or why something happens",
+    "variations": [
+      "theory",
+      "theories"
+    ],
+    "emoji": "💡📘",
+    "id": "gl251"
+  },
+  "thumb": {
+    "word": "thumb",
+    "definition": "the shortest and thickest finger on the hand, numbered 1 in piano fingering",
+    "variations": [
+      "thumb",
+      "thumbs"
+    ],
+    "emoji": "👍✋",
+    "id": "gl252"
+  },
+  "timbre": {
+    "word": "timbre",
+    "definition": "the special sound quality that makes one voice or instrument sound different from another",
+    "variations": [
+      "timbre",
+      "timbres"
+    ],
+    "emoji": "🎺🎻🎶",
+    "id": "gl253"
+  },
+  "time signature": {
+    "word": "time signature",
+    "definition": "the sign at the beginning of music that shows how many beats are in each bar and which note gets one beat",
+    "variations": [
+      "time signature",
+      "time signatures"
+    ],
+    "emoji": "⏱️🎵",
+    "id": "gl254"
+  },
+  "tone": {
+    "word": "tone",
+    "definition": "A whole step between two notes.",
+    "variations": [
+      "tone",
+      "tones"
+    ],
+    "emoji": "👣🎵",
+    "id": "gl255"
+  },
+  "tone colour": {
+    "word": "tone colour",
+    "definition": "the unique quality of a sound that helps us tell instruments or voices apart",
+    "variations": [
+      "tone colour",
+      "tone colours"
+    ],
+    "emoji": "🎨🎵",
+    "id": "gl256"
+  },
+  "tonic": {
+    "word": "tonic",
+    "definition": "The first and main note of a scale or key.",
+    "variations": [
+      "tonic",
+      "tonics"
+    ],
+    "emoji": "1️⃣🎶",
+    "id": "gl257"
+  },
+  "tonic triad": {
+    "word": "tonic triad",
+    "definition": "a three-note chord built on the first note of a scale",
+    "variations": [
+      "tonic triad",
+      "tonic triads"
+    ],
+    "emoji": "🎵🏠🎼",
+    "id": "gl258"
+  },
+  "transition": {
+    "word": "transition",
+    "definition": "a smooth change from one part of a song to another",
+    "variations": [
+      "transition",
+      "transitions"
+    ],
+    "emoji": "➡️🎼",
+    "id": "gl259"
+  },
+  "treble clef": {
+    "word": "treble clef",
+    "definition": "A music sign that shows higher notes on a staff.",
+    "variations": [
+      "treble clef",
+      "treble clefs"
+    ],
+    "emoji": "🎼⬆️",
+    "id": "gl260"
+  },
+  "treble staff": {
+    "word": "treble staff",
+    "definition": "the upper staff of the grand staff, usually used for higher notes",
+    "variations": [
+      "treble staff",
+      "treble staffs"
+    ],
+    "emoji": "⬆️🎼",
+    "id": "gl261"
+  },
+  "triad": {
+    "word": "triad",
+    "definition": "a group of three musical notes played together to make a chord",
+    "variations": [
+      "triad",
+      "triads"
+    ],
+    "emoji": "🎹🎵",
+    "id": "gl262"
+  },
+  "triplet": {
+    "word": "triplet",
+    "definition": "a group of three notes played in the time usually taken by two notes of the same value",
+    "variations": [
+      "triplet",
+      "triplets"
+    ],
+    "emoji": "🎵3️⃣",
+    "id": "gl263"
+  },
+  "tune": {
+    "word": "tune",
+    "definition": "a series of musical notes that form a melody",
+    "variations": [
+      "tune",
+      "tunes"
+    ],
+    "emoji": "🎶🎵",
+    "id": "gl264"
+  },
+  "unison": {
+    "word": "unison",
+    "definition": "an interval where two notes have the same pitch",
+    "variations": [
+      "unison",
+      "unisons"
+    ],
+    "emoji": "1️⃣🎶",
+    "id": "gl265"
+  },
+  "verse": {
+    "word": "verse",
+    "definition": "a section of a song with words that usually change each time",
+    "variations": [
+      "verse",
+      "verses"
+    ],
+    "emoji": "🎤📄",
+    "id": "gl266"
+  },
+  "vibrate": {
+    "word": "vibrate",
+    "definition": "to move back and forth very quickly and make sound",
+    "variations": [
+      "vibrate",
+      "vibrates",
+      "vibrated",
+      "vibrating",
+      "vibration",
+      "vibrations"
+    ],
+    "emoji": "〰️🔊",
+    "id": "gl267"
+  },
+  "vibration": {
+    "word": "vibration",
+    "definition": "a quick back-and-forth movement that produces sound",
+    "variations": [
+      "vibration",
+      "vibrations",
+      "vibrate",
+      "vibrates",
+      "vibrating"
+    ],
+    "emoji": "〰️🔊",
+    "id": "gl268"
+  },
+  "Vivace": {
+    "word": "Vivace",
+    "definition": "a musical term meaning fast and lively",
+    "variations": [
+      "Vivace"
+    ],
+    "emoji": "⚡😊🎶",
+    "id": "gl269"
+  },
+  "vocal": {
+    "word": "vocal",
+    "definition": "relating to the singing voice in music",
+    "variations": [
+      "vocal",
+      "vocals"
+    ],
+    "emoji": "🎤🗣️",
+    "id": "gl270"
+  },
+  "vocal ensemble": {
+    "word": "vocal ensemble",
+    "definition": "a group of singers who perform together",
+    "variations": [
+      "vocal ensemble",
+      "vocal ensembles"
+    ],
+    "emoji": "🎤👥",
+    "id": "gl271"
+  },
+  "vocalist": {
+    "word": "vocalist",
+    "definition": "a person who sings",
+    "variations": [
+      "vocalist",
+      "vocalists"
+    ],
+    "emoji": "🎤🧑‍🎤",
+    "id": "gl272"
+  },
+  "voice": {
+    "word": "voice",
+    "definition": "An independent musical line in a piece of music.",
+    "variations": [
+      "voice",
+      "voices"
+    ],
+    "emoji": "🎶🗣️",
+    "id": "gl273"
+  },
+  "warm-up": {
+    "word": "warm-up",
+    "definition": "a short practice done before singing or playing to get ready",
+    "variations": [
+      "warm-up",
+      "warm-ups"
+    ],
+    "emoji": "🔥🎤",
+    "id": "gl274"
+  },
+  "white keys": {
+    "word": "white keys",
+    "definition": "the light-colored keys on a piano.",
+    "variations": [
+      "white key",
+      "white keys"
+    ],
+    "emoji": "🎹⬜",
+    "id": "gl275"
+  },
+  "whole step": {
+    "word": "whole step",
+    "definition": "the distance between two notes that are two keys apart on the keyboard",
+    "variations": [
+      "whole step",
+      "whole steps"
+    ],
+    "emoji": "🎹↔️",
+    "id": "gl276"
+  },
+  "wind instrument": {
+    "word": "wind instrument",
+    "definition": "a musical instrument played by blowing air into it",
+    "variations": [
+      "wind instrument",
+      "wind instruments"
+    ],
+    "emoji": "💨🎷",
+    "id": "gl277"
+  },
+  "woodwind": {
+    "word": "woodwind",
+    "definition": "a group of wind instruments that make sound when air moves through a reed or opening",
+    "variations": [
+      "woodwind",
+      "woodwinds"
+    ],
+    "emoji": "🎷🎶",
+    "id": "gl278"
+  }
+}
